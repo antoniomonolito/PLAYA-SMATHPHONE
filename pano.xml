@@ -17,7 +17,6 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label textcolor="0x000000" backgroundalpha="1" borderradius="1" width="180" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" border="1" borderalpha="1" textalpha="1" wordwrap="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot target="" title="LOBBY" url="{node6}" id="Point01" skinid="ht_node" pan="-3.16" description="" tilt="-11"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" softedge="0" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomin="0" type="crossdissolve" zoomspeed="2" zoomout="0"/>
