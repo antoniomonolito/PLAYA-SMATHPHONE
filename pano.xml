@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node1" appversion="6.0.4" apprev="17319">
   <panorama id="node1">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
@@ -24,9 +22,7 @@
     <control invertwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node6">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
@@ -49,9 +45,7 @@
     <control invertwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node9">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
@@ -74,9 +68,7 @@
     <control invertwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node10">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
@@ -99,9 +91,7 @@
     <control invertwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node4">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
@@ -124,9 +114,7 @@
     <control invertwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" contextprojections="0" simulatemass="1" lockedmouse="0" lockedkeyboardzoom="0" rubberband="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node5">
-    <input levelingpitch="0" overlap="1" width="2000" levelbias="0.400" levelingroll="0" height="2000" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" width="2000" height="2000" predecode="0"/>
-      <level preload="0" width="1000" height="1000" predecode="0"/>
+    <input levelingpitch="0" overlap="1" width="500" levelbias="0.400" levelingroll="0" height="500" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
       <level preload="1" width="500" height="500" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
